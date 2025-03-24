@@ -28,9 +28,5 @@
 - **What It Is:** Azure Site Recovery helps ensure business continuity by replicating your workloads to Azure or another data center in case of a disaster.
 - **Why IaaS:** Site Recovery is IaaS because it provides virtual disaster recovery solutions, replicating and managing workloads without the need for physical recovery infrastructure.
 
-## 8. Azure Kubernetes Service (AKS)
-- **What It Is:** AKS is a managed service for deploying, managing, and scaling containerized applications using Kubernetes.
-- **Why IaaS:** AKS is IaaS because it provides virtualized container orchestration, managing the underlying infrastructure required to run containers. Azure takes care of the hardware.
-
 ## Conclusion
 These Azure services are considered IaaS because they provide virtualized computing, storage, and networking resources that you can manage and scale according to your needs. Azure handles the physical infrastructure, giving you flexibility, scalability, and cost-efficiency while allowing you to focus on your applications and workloads.
