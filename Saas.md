@@ -32,5 +32,25 @@
 - **What It Is:** Azure AD is a service for managing user identities and access, providing single sign-on, multi-factor authentication, and conditional access.
 - **Why SaaS:** Azure AD is delivered as a service, so organizations can manage user identities and access without maintaining on-premises infrastructure. Microsoft handles the service's updates and security.
 
+## 9. Azure DevTest Labs
+- **What It Is:** Azure DevTest Labs is a service that helps developers and testers quickly create environments in Azure while minimizing waste and controlling costs.
+- **Why SaaS:** DevTest Labs is delivered over the internet, allowing users to set up development and test environments without managing the underlying infrastructure. Microsoft handles the maintenance, updates, and scaling.
+
+## 10. Microsoft Power Apps
+- **What It Is:** Microsoft Power Apps is a suite of apps, services, and connectors, along with a data platform, that provides a rapid development environment to build custom apps for your business needs.
+- **Why SaaS:** Power Apps is a cloud service that allows users to create applications without worrying about the underlying infrastructure. Microsoft manages everything, including updates and security.
+
+## 11. Microsoft Planner
+- **What It Is:** Microsoft Planner is a task management tool that provides a simple, visual way to organize teamwork.
+- **Why SaaS:** Planner is accessed online, allowing teams to collaborate on tasks and projects from any device. Microsoft handles the backend infrastructure, updates, and maintenance.
+
+## 12. OneDrive for Business
+- **What It Is:** OneDrive for Business is a cloud storage service that allows users to store, sync, and share files with others.
+- **Why SaaS:** OneDrive is a cloud-based service, so users can access their files from any device with an internet connection. Microsoft manages the storage infrastructure, updates, and security.
+
+## 13. Microsoft Stream
+- **What It Is:** Microsoft Stream is an enterprise video service where people in an organization can upload, view, and share videos securely.
+- **Why SaaS:** Stream is delivered as a cloud service, enabling users to manage and share videos without dealing with the underlying infrastructure. Microsoft takes care of the maintenance, updates, and security.
+
 ## Conclusion
 These Azure services are considered SaaS because they provide software applications over the internet, eliminating the need for local installation and maintenance. SaaS abstracts the complexities of software management, offering scalability, high availability, and regular updates, allowing users to focus on their core business activities.
