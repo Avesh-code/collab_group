@@ -40,5 +40,17 @@
 - **Description:** Azure DevOps provides developer services for CI/CD, version control, project management, and testing.
 - **Why PaaS:** DevOps offers a managed environment for the entire software development lifecycle, abstracting the underlying infrastructure and providing tools for continuous integration and delivery.
 
+## 11. Azure Batch
+- **What It Is:** Azure Batch is a service that enables large-scale parallel and high-performance computing applications to be run efficiently in the cloud.
+- **Why PaaS:** Azure Batch abstracts the underlying infrastructure, allowing users to focus on their compute jobs without worrying about managing and scaling virtual machines.
+
+## 12. Azure Stream Analytics
+- **What It Is:** Azure Stream Analytics is a real-time analytics service that can process and analyze fast-moving streams of data from various sources.
+- **Why PaaS:** Stream Analytics provides a managed environment for real-time data processing, abstracting the complexities of infrastructure management and allowing users to focus on defining their data processing logic.
+
+## 13. Azure Event Grid
+- **What It Is:** Azure Event Grid is a service that allows for the management of events in a unified, scalable, and serverless event routing service.
+- **Why PaaS:** Event Grid abstracts the infrastructure needed to manage events, providing a fully managed service that allows developers to focus on building event-driven applications without worrying about the underlying infrastructure.
+
 ## Conclusion
 These Azure services come under PaaS because they provide a platform for building, deploying, and managing applications without the need to manage the underlying infrastructure. PaaS abstracts the complexities of infrastructure management, offering scalability, high availability, and integrated development tools, allowing users to focus on their applications and business logic.
