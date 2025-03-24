@@ -28,5 +28,25 @@
 - **What It Is:** Azure Site Recovery helps ensure business continuity by replicating your workloads to Azure or another data center in case of a disaster.
 - **Why IaaS:** Site Recovery is IaaS because it provides virtual disaster recovery solutions, replicating and managing workloads without the need for physical recovery infrastructure.
 
+## 8. Azure Firewall
+- **What It Is:** Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources.
+- **Why IaaS:** Azure Firewall is IaaS because it provides a virtualized network security solution. Users can manage and configure firewall rules without dealing with physical firewall hardware.
+
+## 9. Azure Bastion
+- **What It Is:** Azure Bastion is a service that provides secure and seamless RDP and SSH connectivity to your virtual machines directly through the Azure portal.
+- **Why IaaS:** Azure Bastion is IaaS because it offers a virtualized solution for secure remote access to VMs. Users don't need to set up and maintain physical bastion hosts.
+
+## 10. Azure DNS
+- **What It Is:** Azure DNS is a hosting service for DNS domains, providing name resolution using Microsoft Azure infrastructure.
+- **Why IaaS:** Azure DNS is IaaS because it provides a virtualized DNS service. Users can manage DNS zones and records without maintaining physical DNS servers.
+
+## 11. Azure Dedicated Host
+- **What It Is:** Azure Dedicated Host provides physical servers that host one or more Azure virtual machines, offering server-level isolation.
+- **Why IaaS:** Azure Dedicated Host is IaaS because it provides dedicated physical servers for running VMs. Users have control over the server and can manage the VMs running on it.
+
+## 12. Azure ExpressRoute
+- **What It Is:** Azure ExpressRoute lets you create private connections between Azure data centers and your on-premises infrastructure or colocation environment.
+- **Why IaaS:** Azure ExpressRoute is IaaS because it provides a virtualized private network connection. Users can manage the connection settings and bandwidth without dealing with physical network infrastructure.
+
 ## Conclusion
 These Azure services are considered IaaS because they provide virtualized computing, storage, and networking resources that you can manage and scale according to your needs. Azure handles the physical infrastructure, giving you flexibility, scalability, and cost-efficiency while allowing you to focus on your applications and workloads.
